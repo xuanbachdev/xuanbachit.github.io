@@ -4,7 +4,7 @@ var myPlaylist = new jPlayerPlaylist({
     cssSelectorAncestor: "#jp_container_N"
 },
  [
-     { title: "Sao em nỡ vô tình  ", artist: "Jack", mp3:"images/1a.mp3", poster: "images/1.jpg"},
+     { title: "Sao em nỡ vô tình  ", artist: "Jack", mp3:"images/1.mp3", poster: "images/1a.jpg"},
      { title: "Thích thì đến ", artist: "Lê Bảo Bình", mp3:"images/2.mp3 ", poster: "images/2.jpg"},
      { title: "Đã lỡ yêu em nhiều", artist: "JustaTee", mp3:"images/3.mp3", poster: "images/3.jpg"},
      { title: "Nỗi nhớ anh mang  ", artist: "Nguyễn Huy", mp3:"images/4.mp3", poster: "images/4.jpg"},
