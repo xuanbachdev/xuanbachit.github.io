@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xuanbachdev.github.io/sitemap.xml
+Sitemap: https://xuanbachit.tech/sitemap.xml
