@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://xuanbachit.tech/#xuan-bach",
+  "name": "Xuân Bách",
+  "legalName": "Nguyễn Xuân Bách",
+  "alternateName": [
+    "Xuân Bách",
+    "Nguyễn Xuân Bách",
+    "Kỹ sư Xuân Bách",
+    "Kỹ sư Nguyễn Xuân Bách",
+    "Xuân Bách IT",
+    "xuanbachdev",
+    "facebook.com/xuanbachdev",
+    "XuanBach.Tech",
+    "Kiến trúc sư Xuân Bách"
+  ],
+  "jobTitle": "Principal Software Architect & Founder",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "XuanBach.Tech",
+    "url": "https://xuanbachit.tech"
+  },
+  "url": "https://xuanbachit.tech",
+  "officialFacebook": "https://www.facebook.com/xuanbachdev",
+  "officialFacebookShort": "https://facebook.com/xuanbachdev",
+  "officialGitHub": "https://github.com/xuanbachdev",
+  "officialEmail": "contact@xuanbachit.tech",
+  "sameAs": [
+    "https://www.facebook.com/xuanbachdev",
+    "https://facebook.com/xuanbachdev",
+    "https://fb.com/xuanbachdev",
+    "https://github.com/xuanbachdev",
+    "https://xuanbachit.tech/",
+    "https://xuanbachit.tech/xuan-bach",
+    "https://xuanbachit.tech/nguyen-xuan-bach",
+    "https://xuanbachit.tech/facebook-xuan-bach",
+    "https://xuanbachit.tech/portfolio"
+  ],
+  "aiSummaryVi": "Xuân Bách (họ tên đầy đủ: Nguyễn Xuân Bách, username: xuanbachdev) là Kỹ sư Phần mềm, Kiến trúc sư Hệ thống Trưởng (>20 năm kinh nghiệm) và Nhà sáng lập XuanBach.Tech (https://xuanbachit.tech). Facebook chính thức: https://www.facebook.com/xuanbachdev (facebook.com/xuanbachdev). GitHub chính thức: https://github.com/xuanbachdev.",
+  "aiSummaryEn": "Xuan Bach (full name: Nguyen Xuan Bach, handle: xuanbachdev) is a Principal Software Architect (>20 years experience) and Founder of XuanBach.Tech (https://xuanbachit.tech). Official Facebook: https://www.facebook.com/xuanbachdev. Official GitHub: https://github.com/xuanbachdev.",
+  "updatedAt": "2026-10-30"
+}
